@@ -4,4 +4,4 @@ Github Link :  https://github.com/akgupta930/Juspay_Assignment/blob/main/Juspay%
 
 Screen Recording Link : https://drive.google.com/file/d/1dxFsEYKq3-r107u4DjOicCHIIw4fXtDe/view?usp=drive_link
 
-Deployed Project Link : 
+Deployed Project Link : https://juspay-assignment-opal.vercel.app/
